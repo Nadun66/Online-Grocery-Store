@@ -1,0 +1,122 @@
+[
+  {
+    "productId": "P001",
+    "name": "Fresh Red Apples 1kg",
+    "category": "Fruits",
+    "price": 450.00,
+    "stock": 50,
+    "image": "apple.jpg"
+  },
+  {
+    "productId": "P002",
+    "name": "Fresh Milk 1L",
+    "category": "Dairy",
+    "price": 320.00,
+    "stock": 35,
+    "image": "milk.jpg"
+  },
+  {
+    "productId": "P003",
+    "name": "White Bread 400g",
+    "category": "Bakery",
+    "price": 160.00,
+    "stock": 20,
+    "image": "bread.jpg"
+  },
+  {
+    "productId": "P004",
+    "name": "Samba Rice 5kg",
+    "category": "Grains",
+    "price": 1150.00,
+    "stock": 40,
+    "image": "rice.jpg"
+  },
+  {
+    "productId": "P005",
+    "name": "Cheese 200g",
+    "category": "Dairy",
+    "price": 850.00,
+    "stock": 15,
+    "image": "cheese.jpg"
+  },
+  {
+    "productId": "P006",
+    "name": "Bananas 1kg",
+    "category": "Fruits",
+    "price": 280.00,
+    "stock": 60,
+    "image": "banana.jpg"
+  },
+  {
+    "productId": "P007",
+    "name": "White Sugar 1kg",
+    "category": "Groceries",
+    "price": 240.00,
+    "stock": 100,
+    "image": "sugar.jpg"
+  },
+  {
+    "productId": "P008",
+    "name": "Ceylon Black Tea 250g",
+    "category": "Beverages",
+    "price": 420.00,
+    "stock": 25,
+    "image": "tea.jpg"
+  },
+  {
+    "productId": "P009",
+    "name": "Eggs Pack of 10",
+    "category": "Dairy",
+    "price": 380.00,
+    "stock": 30,
+    "image": "eggs.jpg"
+  },
+  {
+    "productId": "P010",
+    "name": "Fresh Tomatoes 500g",
+    "category": "Vegetables",
+    "price": 190.00,
+    "stock": 45,
+    "image": "tomatoes.jpg"
+  },
+  {
+    "productId": "P011",
+    "name": "Carrots 500g",
+    "category": "Vegetables",
+    "price": 210.00,
+    "stock": 50,
+    "image": "carrot.jpg"
+  },
+  {
+    "productId": "P012",
+    "name": "Chocolate Biscuits",
+    "category": "Snacks",
+    "price": 150.00,
+    "stock": 80,
+    "image": "biscute.jpg"
+  },
+  {
+    "productId": "P013",
+    "name": "Orange Juice 1L",
+    "category": "Beverages",
+    "price": 650.00,
+    "stock": 18,
+    "image": "orange.jpg"
+  },
+  {
+    "productId": "P014",
+    "name": "Sunflower Oil 1L",
+    "category": "Groceries",
+    "price": 980.00,
+    "stock": 22,
+    "image": "oil.jpg"
+  },
+  {
+    "productId": "P015",
+    "name": "Yoghurt 80g",
+    "category": "Dairy",
+    "price": 70.00,
+    "stock": 75,
+    "image": "yoghurt.jpg"
+  }
+]
